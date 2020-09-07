@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
-* Студент: [Анна](https://up.htmlacademy.ru/htmlcss/29/user/1584569).
-* Наставник: `Неизвестно`.
+* Студент: [Анна Петрова](https://up.htmlacademy.ru/htmlcss/29/user/1584569).
+* Наставник: [Максим Вавилкин](https://htmlacademy.ru/profile/id218942).
 
 ---
 
